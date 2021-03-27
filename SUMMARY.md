@@ -1,6 +1,6 @@
 # Table of contents
 
-* [前言（目录）](README.md)
+* [前言/目录](README.md)
 * [GitHub](https://github.com/JohnLee081)
 * [Gitee](https://gitee.com/JohnLee081)
 
