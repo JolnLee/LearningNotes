@@ -37,7 +37,7 @@
 
 ## 初阶 <a id="elementary"></a>
 
-* [JavaScript](elementary/javascript-frame.md)
+* [JavaScript流行库](elementary/javascript-frame.md)
 * [Bootstrap](elementary/bootstrap.md)
 * [移动Web](elementary/mobile-web.md)
 * [Git](elementary/git.md)

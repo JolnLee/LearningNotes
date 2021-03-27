@@ -1,2 +1,2 @@
-# JavaScript
+# JavaScript流行库
 
