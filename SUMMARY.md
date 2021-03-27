@@ -4,7 +4,7 @@
 * [GitHub](https://github.com/JohnLee081)
 * [Gitee](https://gitee.com/JohnLee081)
 
-## 搬砖入门 <a id="started"></a>
+## 入门 <a id="started"></a>
 
 * [HTML](started/html/README.md)
   * [HTML基础标签](started/html/html-based-label.md)
@@ -35,14 +35,14 @@
 * [Less&Sass](started/less-and-sass.md)
 * [JQuery](started/jquery.md)
 
-## 初阶搬砖 <a id="elementary"></a>
+## 初阶 <a id="elementary"></a>
 
 * [JavaScript](elementary/javascript-frame.md)
 * [Bootstrap](elementary/bootstrap.md)
 * [移动Web](elementary/mobile-web.md)
 * [Git](elementary/git.md)
 
-## 中阶搬砖 <a id="intermediate"></a>
+## 中阶 <a id="intermediate"></a>
 
 * [NodeJs](intermediate/node.md)
 * [Webpack](intermediate/webpack.md)
