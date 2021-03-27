@@ -9,7 +9,7 @@
 
 笔记共包含13章（暂时），分为3个逻辑部分，后面会接着深入前端框架和小程序。
 
-### 第一部分 ：HTML/CSS/JavaScript/jQuery\(入门搬砖\)
+### 第一部分 ：HTML/CSS/JavaScript/JQuery\(入门搬砖\)
 
 [HTML](https://notes.lichunshuo.com/started/html)
 
