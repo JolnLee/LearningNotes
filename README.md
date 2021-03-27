@@ -41,5 +41,5 @@
 
 [Vue实现原理](https://notes.lichunshuo.com/intermediate/vue-principle)
 
-...待更新
+>...待更新
 
