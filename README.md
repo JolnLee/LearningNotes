@@ -33,13 +33,13 @@
 
 ### 第三部分 ：Node常用API/Webpack/Vue/Vue原理\(中阶搬砖\)
 
-[NodeJs](intermediate/node.md)[node](https://notes.lichunshuo.com/intermediate/node)
+[NodeJs](intermediate/node.md)
 
-[Webpack](https://notes.lichunshuo.com/intermediate/webpack)
+[Webpack](intermediate/webpack.md)
 
-[Vue](https://notes.lichunshuo.com/intermediate/vue)
+[Vue](intermediate/vue.md)
 
-[Vue实现原理](https://notes.lichunshuo.com/intermediate/vue-principle)
+[Vue实现原理](intermediate/vue-principle.md)
 
 > 待更新......
 
