@@ -11,19 +11,19 @@
 
 ### 第一部分 ：HTML/CSS/JavaScript/JQuery\(入门搬砖\)
 
-[HTML](https://notes.lichunshuo.com/started/html)
+[HTML](started/html/)
 
-[CSS](https://notes.lichunshuo.com/started/css)
+[CSS](started/css/)
 
-[Javascript](https://notes.lichunshuo.com/started/css)
+[JavaScript](started/javascript.md)
 
-[Less&Sass](https://notes.lichunshuo.com/started/less-and-sass)
+[Less&Sass](started/less-and-sass.md)
 
-[JQuery](https://notes.lichunshuo.com/started/jquery)
+[JQuery](started/jquery.md)
 
 ### 第二部分 ：JavaScript流行库/Bootstrap/移动Web开发/Git\(初阶搬砖\)
 
-[Javascript流行库](https://notes.lichunshuo.com/elementary/javascript-frame)
+[JavaScript流行库](elementary/javascript-frame.md)[Javascript流行库](https://notes.lichunshuo.com/elementary/javascript-frame)
 
 [Bootstrap](https://notes.lichunshuo.com/elementary/bootstrap)
 
