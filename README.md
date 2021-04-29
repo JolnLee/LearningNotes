@@ -23,11 +23,11 @@
 
 ### 第二部分 ：JavaScript流行库/Bootstrap/移动Web开发/Git\(初阶搬砖\)
 
-[JavaScript流行库](elementary/javascript-frame.md)[Javascript流行库](https://notes.lichunshuo.com/elementary/javascript-frame)
+[JavaScript流行库](elementary/javascript-frame.md)
 
-[Bootstrap](https://notes.lichunshuo.com/elementary/bootstrap)
+[Bootstrap](elementary/bootstrap.md)
 
-[移动Web](https://notes.lichunshuo.com/elementary/mobile-web)
+[移动Web](elementary/mobile-web.md)[移动Web](https://notes.lichunshuo.com/elementary/mobile-web)
 
 [Git](https://notes.lichunshuo.com/elementary/git)
 
