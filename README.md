@@ -27,13 +27,13 @@
 
 [Bootstrap](elementary/bootstrap.md)
 
-[移动Web](elementary/mobile-web.md)[移动Web](https://notes.lichunshuo.com/elementary/mobile-web)
+[移动Web](elementary/mobile-web.md)
 
-[Git](https://notes.lichunshuo.com/elementary/git)
+[Git](elementary/git.md)
 
 ### 第三部分 ：Node常用API/Webpack/Vue/Vue原理\(中阶搬砖\)
 
-[Node API](https://notes.lichunshuo.com/intermediate/node)
+[NodeJs](intermediate/node.md)[node](https://notes.lichunshuo.com/intermediate/node)
 
 [Webpack](https://notes.lichunshuo.com/intermediate/webpack)
 
